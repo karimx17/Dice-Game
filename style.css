@@ -1,0 +1,10 @@
+body{
+    background-image: url(images/casino.jpeg);
+}
+.dice {
+    text-align: center;
+}
+h1 {
+    font-size: 5rem;
+    font-family:cursive
+}
